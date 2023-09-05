@@ -1,5 +1,5 @@
 // data
-const workSlides = {
+export const WorkSlider = {
   slides: [
     {
       images: [

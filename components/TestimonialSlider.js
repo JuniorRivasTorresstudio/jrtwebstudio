@@ -1,5 +1,5 @@
 // testimonial data
-const testimonialData = [
+export const testimonialData = [
   {
     image: '/t-avt-1.png',
     name: 'Anne Smith',
